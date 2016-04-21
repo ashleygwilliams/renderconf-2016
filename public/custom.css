@@ -5,6 +5,10 @@ body {
   font-weight: 400;
 }
 
+.left-pad  h1 {
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
 .title > h1 {
   color: white;
   text-shadow: 3px 1px 0px #B8860B;
